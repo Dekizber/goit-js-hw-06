@@ -1,1 +1,1 @@
-Homework JavaSkript
+Homework JavaSсript
