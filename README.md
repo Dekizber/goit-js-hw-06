@@ -1,1 +1,1 @@
-Homework JavaSсript №5
+Homework JavaSсript №6
